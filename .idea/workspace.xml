@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JP_Java_Platformer:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="408532e3-e015-4345-8565-4a086973505b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/src/fr/feavy/javaPlatformer/JavaPlatformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Library/src/fr/feavy/javaPlatformer/JavaPlatformer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JP_Java_Platformer/fr/feavy/javaPlatformer/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JP_Java_Platformer/fr/feavy/javaPlatformer/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JP_Java_Platformer/fr/feavy/javaPlatformer/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JP_Java_Platformer/fr/feavy/javaPlatformer/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Library/fr/feavy/javaPlatformer/JavaPlatformer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Library/fr/feavy/javaPlatformer/JavaPlatformer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/feavy/javaPlatformer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/feavy/javaPlatformer/Main.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JP_Java_Platformer" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1P6J8vvSaQjdLuFf477Hjpl3RlQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JP_Java_Platformer_Lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.feavy.javaPlatformer.Main" />
+      <module name="JP_Java_Platformer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.feavy.javaPlatformer.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.feavy.javaPlatformer.Main" />
+      <module name="JP_Java_Platformer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.feavy.javaPlatformer.Main" />
+      <module name="Library" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="408532e3-e015-4345-8565-4a086973505b" name="Default Changelist" comment="" />
+      <created>1565188456771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565188456771</updated>
+      <workItem from="1565188462668" duration="1497000" />
+      <workItem from="1565279301205" duration="251000" />
+      <workItem from="1565279662843" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

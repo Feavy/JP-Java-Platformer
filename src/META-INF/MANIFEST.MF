@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+fr.feavy.javaPlatformer.Main-Class: fr.feavy.javaPlatformer.Main
+
